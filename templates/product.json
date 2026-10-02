@@ -1,0 +1,603 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "knr_product_hero": {
+      "type": "knr-product-hero",
+      "blocks": {
+        "b_breadcrumb": {
+          "type": "breadcrumb",
+          "settings": {
+            "label_1": "Soins anti-âge",
+            "url_1": "",
+            "label_2": "Collection Cactus",
+            "url_2": ""
+          }
+        },
+        "b_badges": {
+          "type": "badges",
+          "settings": {
+            "badges": "UNIFIE, PROTÈGE"
+          }
+        },
+        "b_title": {
+          "type": "title",
+          "settings": {
+            "show_rating": true,
+            "fallback_rating": "4.7",
+            "fallback_count": "200",
+            "reviews_label": "avis"
+          }
+        },
+        "b_scores": {
+          "type": "scores",
+          "settings": {
+            "label_1": "Yuka",
+            "score_1": "100/100",
+            "label_2": "INCI Beauty",
+            "score_2": "20/20"
+          }
+        },
+        "b_intro": {
+          "type": "intro",
+          "settings": {
+            "text": "<p>Une huile anti-âge sèche ultra fine qui travaille en synergie avec la peau pour la maintenir ferme, pleine de vitalité tout en lissant les rides.</p>"
+          }
+        },
+        "b_variants": {
+          "type": "variant_picker",
+          "settings": {}
+        },
+        "b_price": {
+          "type": "price",
+          "settings": {
+            "per_label": "par 100 mL"
+          }
+        },
+        "b_buy": {
+          "type": "buy_buttons",
+          "settings": {
+            "button_label": "Ajouter au panier",
+            "show_delivery": true,
+            "in_stock_label": "En stock",
+            "delivery_label": "livraison estimée"
+          }
+        },
+        "b_acc_desc": {
+          "type": "accordion",
+          "settings": {
+            "heading": "Description",
+            "open": true,
+            "use_product_description": false,
+            "content": "<p>Formulé à partir de 97 % d'ingrédients d'origine naturelle, ce sérum précieux active les mécanismes naturels de régénération cellulaire.</p>"
+          }
+        },
+        "b_acc_bienfaits": {
+          "type": "accordion",
+          "settings": {
+            "heading": "Bienfaits",
+            "open": false,
+            "use_product_description": false,
+            "content": "<p>Hydrate en profondeur, lisse l'apparence des ridules et redonne éclat et élasticité dès la première application.</p>"
+          }
+        },
+        "b_acc_ingredients": {
+          "type": "accordion",
+          "settings": {
+            "heading": "Ingrédients clés",
+            "open": false,
+            "use_product_description": false,
+            "content": "<p>Huile de pépins de figue de Barbarie bio, acide hyaluronique pur d'origine végétale, vitamine E naturelle.</p>"
+          }
+        },
+        "b_acc_peaux": {
+          "type": "accordion",
+          "settings": {
+            "heading": "Adapté aux peaux",
+            "open": false,
+            "use_product_description": false,
+            "content": "<p>Convient à tous types de peaux, y compris les peaux sensibles, déshydratées ou matures.</p>"
+          }
+        },
+        "b_ritual": {
+          "type": "ritual",
+          "settings": {
+            "heading": "COMPLÉTEZ VOTRE RITUEL",
+            "products": [
+              "the-3p-fulfilled-snowboard",
+              "the-collection-snowboard-hydrogen",
+              "the-collection-snowboard-liquid"
+            ],
+            "next_label": "Suivant",
+            "add_label": "Ajouter"
+          }
+        }
+      },
+      "block_order": [
+        "b_breadcrumb",
+        "b_badges",
+        "b_title",
+        "b_scores",
+        "b_intro",
+        "b_variants",
+        "b_price",
+        "b_buy",
+        "b_acc_desc",
+        "b_acc_bienfaits",
+        "b_acc_ingredients",
+        "b_acc_peaux",
+        "b_ritual"
+      ],
+      "settings": {
+        "text_color": "#000000",
+        "muted_color": "#888888",
+        "line_color": "#e5e5e5",
+        "card_color": "#ffffff",
+        "button_bg": "#000000",
+        "button_text": "#ffffff",
+        "page_color": "#f5f0eb",
+        "font": "sans_serif_n4",
+        "sold_out_label": "Épuisé",
+        "added_label": "Ajouté ✓",
+        "after_add": "added",
+        "zoom_label": "Agrandir",
+        "delivery_days": 4
+      }
+    },
+    "knr_features_1": {
+      "type": "knr-features",
+      "blocks": {
+        "caption_ELjnkp": {
+          "type": "caption",
+          "settings": {
+            "text": "Un geste simple, une texture légère."
+          }
+        },
+        "attribution_bmYwBY": {
+          "type": "attribution",
+          "settings": {
+            "text": "Sanaris"
+          }
+        },
+        "statement_hqWQE6": {
+          "type": "statement",
+          "settings": {
+            "text": "<p>Fusionnant l'huile de rosier muscat, le rétinol végétal et l'extrait de cactus, notre sérum pénètre en profondeur pour stimuler le renouvellement cellulaire, atténuer les rides et redonner à la peau son éclat et sa fermeté naturelles.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "caption_ELjnkp",
+        "attribution_bmYwBY",
+        "statement_hqWQE6"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Product_Image.png",
+        "image_mobile": "shopify://shop_images/Image.png",
+        "overlay": 15,
+        "text_color": "#ffffff",
+        "font": "inter_n3",
+        "text_size": 30,
+        "offset_top": 40,
+        "text_size_mobile": 20,
+        "mobile_ratio": "61 / 100"
+      }
+    },
+    "knr_howto": {
+      "type": "knr-how-to-use",
+      "blocks": {
+        "step_1": {
+          "type": "step",
+          "settings": {
+            "image": "shopify://shop_images/Product_Image_Container.png",
+            "title": "Découvrir",
+            "text": "<p>Concentré de pureté active. Huile végétale aux propriétés anti-oxydantes puissantes pour un éclat retrouvé.</p>",
+            "url": ""
+          }
+        },
+        "step_2": {
+          "type": "step",
+          "settings": {
+            "image": "shopify://shop_images/Product_Image_Container-1.png",
+            "title": "Découvrir",
+            "text": "<p>Éclat et uniformité retrouvés. Cible les taches et les irrégularités de grain de peau.</p>",
+            "url": ""
+          }
+        },
+        "step_3": {
+          "type": "step",
+          "settings": {
+            "image": "shopify://shop_images/Product_Image_Container-2.png",
+            "title": "Découvrir",
+            "text": "<p>Fermeté et nutrition intense. Répare la barrière cutanée et lisse les contours du visage.</p>",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "step_1",
+        "step_2",
+        "step_3"
+      ],
+      "settings": {
+        "heading": "How to use",
+        "show_numbers": true,
+        "columns": 3,
+        "image_ratio": "1 / 1",
+        "mobile_card_width": 65,
+        "mobile_image_ratio": "1 / 1",
+        "read_more_label": "Lire plus",
+        "read_less_label": "Lire moins",
+        "bg_color": "#ffffff",
+        "text_color": "#000000",
+        "muted_color": "#4a4a4a",
+        "font": "inter_n4",
+        "padding_top": 32,
+        "padding_bottom": 48
+      }
+    },
+    "knr_testimonial": {
+      "type": "knr-testimonial",
+      "blocks": {
+        "testimonial_PJtc6a": {
+          "type": "testimonial",
+          "settings": {
+            "rating": 5,
+            "name": "Clara",
+            "quote": "<p>J'utilise ce sérum depuis trois mois et la différence est saisissante. Mes rides d'expression se sont considérablement atténuées et mon teint a retrouvé une luminosité que je n'avais plus depuis des années. Une texture soyeuse qui pénètre instantanément. Je ne peux plus m'en passer.</p>"
+          }
+        },
+        "testimonial_GQkBRr": {
+          "type": "testimonial",
+          "settings": {
+            "rating": 5,
+            "name": "Clara T.",
+            "quote": "<p>J'utilise ce sérum depuis trois mois et la différence est saisissante. Mes rides d'expression se sont considérablement atténuées et mon teint a retrouvé une luminosité que je n'avais plus depuis des années. Une texture soyeuse qui pénètre instantanément. Je ne peux plus m'en passer.</p>"
+          }
+        },
+        "testimonial_pGyUej": {
+          "type": "testimonial",
+          "settings": {
+            "rating": 5,
+            "name": "Clara T.",
+            "quote": "<p>J'utilise ce sérum depuis trois mois et la différence est saisissante. Mes rides d'expression se sont considérablement atténuées et mon teint a retrouvé une luminosité que je n'avais plus depuis des années. Une texture soyeuse qui pénètre instantanément. Je ne peux plus m'en passer.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_PJtc6a",
+        "testimonial_GQkBRr",
+        "testimonial_pGyUej"
+      ],
+      "settings": {
+        "heading": "Ce que disent nos clientes",
+        "subheading": "<p>Des transformations visibles dès 4 semaines. Nos clientes témoignent d'une peau visiblement régénérée, plus ferme et lumineuse.</p>",
+        "before_image": "shopify://shop_images/Before_and_After_Image.png",
+        "after_image": "shopify://shop_images/Before_and_After_Image.png",
+        "before_label": "Before",
+        "after_label": "After",
+        "slider_label": "Comparaison avant / après",
+        "image_ratio": "2 / 1",
+        "image_ratio_mobile": "16 / 9",
+        "prev_label": "Précédent",
+        "next_label": "Suivant",
+        "bg_color": "#f8f7f2",
+        "text_color": "#000000",
+        "accent_color": "#b8a98f",
+        "label_color": "#000000",
+        "font": "inter_n4",
+        "padding_top": 80,
+        "padding_bottom": 88,
+        "padding_top_mobile": 64,
+        "padding_bottom_mobile": 64
+      }
+    },
+    "knr_faq": {
+      "type": "knr-faq",
+      "blocks": {
+        "faq_1": {
+          "type": "faq_item",
+          "settings": {
+            "question": "What skin types is this suitable for?",
+            "answer": "Our serum is formulated for all skin types, including sensitive and acne-prone skin. The lightweight, non-comedogenic formula absorbs quickly without leaving a greasy residue."
+          }
+        },
+        "faq_2": {
+          "type": "faq_item",
+          "settings": {
+            "question": "How often should I use this product?",
+            "answer": "For best results, apply twice daily — morning and evening — after cleansing and toning. Consistent use over 4-6 weeks will deliver the most visible improvements."
+          }
+        },
+        "faq_3": {
+          "type": "faq_item",
+          "settings": {
+            "question": "Are the ingredients ethically sourced?",
+            "answer": "Yes. All our ingredients are ethically and sustainably sourced. We work directly with certified organic farms and never test on animals. Our packaging is made from recycled materials."
+          }
+        },
+        "faq_4": {
+          "type": "faq_item",
+          "settings": {
+            "question": "What is the shelf life after opening?",
+            "answer": "Once opened, the product maintains its full efficacy for 12 months. Store in a cool, dry place away from direct sunlight for optimal preservation."
+          }
+        }
+      },
+      "block_order": [
+        "faq_1",
+        "faq_2",
+        "faq_3",
+        "faq_4"
+      ],
+      "settings": {
+        "tag": "Support",
+        "heading": "Questions & answers"
+      }
+    },
+    "knr_reviews_RwTyAL": {
+      "type": "knr-reviews",
+      "blocks": {
+        "review_8qQEBz": {
+          "type": "review",
+          "settings": {
+            "rating": 5,
+            "date": "09/02/26",
+            "name": "Mathilde S",
+            "verified": true,
+            "title": "Après usage d'1 mois",
+            "text": "<p>Maison Célestine est une marque de soins anti-âge haut de gamme formulée autour d'actifs rares et certifiés biologiques, guidée par une expertise médicale et un rituel simple, précis et efficace.</p>"
+          }
+        },
+        "review_AirnUb": {
+          "type": "review",
+          "settings": {
+            "rating": 5,
+            "date": "09/02/26",
+            "name": "Mathilde S",
+            "verified": true,
+            "title": "Après usage d'1 mois",
+            "text": "<p>Maison Célestine est une marque de soins anti-âge haut de gamme formulée autour d'actifs rares et certifiés biologiques, guidée par une expertise médicale et un rituel simple, précis et efficace.</p>"
+          }
+        },
+        "review_yRRpDG": {
+          "type": "review",
+          "settings": {
+            "rating": 5,
+            "date": "09/02/26",
+            "name": "Mathilde S",
+            "verified": true,
+            "title": "Après usage d'1 mois",
+            "text": "<p>Maison Célestine est une marque de soins anti-âge haut de gamme formulée autour d'actifs rares et certifiés biologiques, guidée par une expertise médicale et un rituel simple, précis et efficace.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "review_8qQEBz",
+        "review_AirnUb",
+        "review_yRRpDG"
+      ],
+      "name": "KNR Reviews",
+      "settings": {
+        "heading": "Avis clients",
+        "average": 4.7,
+        "total_count": 200,
+        "count_5": 32,
+        "count_4": 10,
+        "count_3": 5,
+        "count_2": 6,
+        "count_1": 1,
+        "out_of_label": "sur 5",
+        "based_on_label": "Basé sur",
+        "reviews_label": "avis",
+        "write_label": "Écrire un avis",
+        "write_url": "",
+        "ask_label": "Poser une question",
+        "ask_url": "",
+        "filter_label": "Filtrer",
+        "all_label": "Tous",
+        "verified_label": "Vérifié",
+        "empty_label": "Aucun avis pour ce filtre.",
+        "per_page": 3,
+        "load_more_label": "Charger plus",
+        "bg_color": "#ffffff",
+        "text_color": "#000000",
+        "accent_color": "#b8a98f",
+        "bar_color": "#d9d2c0",
+        "bar_bg_color": "#f6f4ef",
+        "line_color": "#d8dbe0",
+        "font": "inter_n4",
+        "padding_top": 80,
+        "padding_bottom": 88,
+        "padding_top_mobile": 64,
+        "padding_bottom_mobile": 64
+      }
+    },
+    "knr_blog_columns_UXDdAm": {
+      "type": "knr-blog-columns",
+      "blocks": {
+        "article_iXN7HJ": {
+          "type": "article",
+          "settings": {
+            "image": "shopify://shop_images/Product_Image_Container_f8f44736-37ff-43af-971b-562336af9957.png",
+            "label": "L'origine",
+            "title": "Fondée en 2012\ndans les Alpes",
+            "text": "<p>Maison Célestine est née de la passion d'une botaniste pour les plantes alpines et leurs propriétés régénérantes exceptionnelles.</p>",
+            "url": ""
+          }
+        },
+        "article_RV3mXw": {
+          "type": "article",
+          "settings": {
+            "image": "shopify://shop_images/Product_Image_Container-1_055e8461-08ad-42e0-83d9-e32e85eb8693.png",
+            "label": "La formule",
+            "title": "12 ingrédients\nactifs sélectionnés",
+            "text": "<p>Chaque ingrédient est sourcé chez des producteurs engagés : huile de rosier muscat, rétinol végétal, extrait de cactus Cactaceae.</p>",
+            "url": ""
+          }
+        },
+        "article_KnwL3t": {
+          "type": "article",
+          "settings": {
+            "image": "shopify://shop_images/Product_Image_Container-2_0e0899f8-acef-4b2a-bc3c-c763a76d45f0.png",
+            "label": "L'expertise",
+            "title": "15 ans de\nrecherche en lab",
+            "text": "<p>Notre laboratoire indépendant teste chaque formule sur des panels de peaux diverses, garantissant efficacité et tolérance.</p>",
+            "url": ""
+          }
+        },
+        "article_aezqk4": {
+          "type": "article",
+          "settings": {
+            "image": "shopify://shop_images/Product_Image_Container-3.png",
+            "label": "L'engagement",
+            "title": "97 % naturel\ncertifié",
+            "text": "<p>Emballages recyclables, formules biodégradables, compensation carbone intégrale. Beauté responsable, du champ au flacon.</p>",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "article_iXN7HJ",
+        "article_RV3mXw",
+        "article_KnwL3t",
+        "article_aezqk4"
+      ],
+      "name": "Latest news",
+      "settings": {
+        "heading": "Latest news",
+        "link_label": "Voir tous les articles",
+        "link_url": "",
+        "columns": 4,
+        "image_ratio": "1 / 1",
+        "mobile_card_width": 65,
+        "bg_color": "#ffffff",
+        "text_color": "#000000",
+        "accent_color": "#c9bfa6",
+        "font": "inter_n4",
+        "padding_top": 56,
+        "padding_bottom": 64,
+        "padding_top_mobile": 48,
+        "padding_bottom_mobile": 48
+      }
+    },
+    "knr_newsletter_banner_fE6iJT": {
+      "type": "knr-newsletter-banner",
+      "name": "Newsletter banner",
+      "settings": {
+        "image": "shopify://shop_images/Reinsurance_Image.jpg",
+        "image_ratio": "5 / 4",
+        "heading": "L'alliance de la science botanique et du luxe naturel pour une peau visiblement rajeunie en 4 semaines.",
+        "heading_mobile": "Sérum précieux régénérant — l'alliance de la science botanique et du luxe naturel pour une peau visiblement rajeunie en 4 semaines.",
+        "placeholder": "E-mail",
+        "button_label": "S'inscrire",
+        "note": "Formule brevetée, testée dermatologiquement, 97 % d'ingrédients d'origine naturelle.",
+        "success_message": "Merci ! Vous êtes bien inscrit(e).",
+        "error_message": "Adresse e-mail invalide. Veuillez réessayer.",
+        "bg_color": "#ffffff",
+        "text_color": "#000000",
+        "field_bg": "#ffffff",
+        "field_border": "#ebe6d8",
+        "button_bg": "#000000",
+        "button_text": "#ffffff",
+        "font": "inter_n4",
+        "padding_top": 48,
+        "padding_bottom": 96,
+        "padding_top_mobile": 32,
+        "padding_bottom_mobile": 68
+      }
+    },
+    "knr_service_strip_krQbBM": {
+      "type": "knr-service-strip",
+      "blocks": {
+        "item_UXrDCa": {
+          "type": "item",
+          "settings": {
+            "title": "Livraison offerte",
+            "text": "Livraison offerte\ndès 60 € d'achat\nen France métropolitaine.",
+            "url": ""
+          }
+        },
+        "item_rLtN6H": {
+          "type": "item",
+          "settings": {
+            "title": "Retours gratuits",
+            "text": "Retours acceptés\njusqu'à 30 jours\naprès réception.",
+            "url": ""
+          }
+        },
+        "item_xHfefp": {
+          "type": "item",
+          "settings": {
+            "title": "Paiement sécurisé",
+            "text": "Paiement 100 % sécurisé\npar carte bancaire,\nPayPal ou virement.",
+            "url": ""
+          }
+        },
+        "item_xh7yXe": {
+          "type": "item",
+          "settings": {
+            "title": "Service client",
+            "text": "Du lundi au vendredi\nde 9h à 18h par email\net téléphone.",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "item_UXrDCa",
+        "item_rLtN6H",
+        "item_xHfefp",
+        "item_xh7yXe"
+      ],
+      "name": "Service strip",
+      "settings": {
+        "bg_color": "#dcd4c1",
+        "text_color": "#000000",
+        "font": "inter_n4",
+        "padding_top": 80,
+        "padding_bottom": 80,
+        "padding_top_mobile": 64,
+        "padding_bottom_mobile": 76
+      }
+    },
+    "knr_sticky_add_to_cart_JpMX8n": {
+      "type": "knr-sticky-add-to-cart",
+      "name": "KNR Sticky",
+      "settings": {
+        "trigger": 200,
+        "button_label": "Ajouter au panier",
+        "sold_out_label": "Épuisé",
+        "added_label": "Ajouté ✓",
+        "after_add": "stay",
+        "bg_color": "#ffffff",
+        "text_color": "#000000",
+        "muted_color": "#b8a98f",
+        "line_color": "#e6e3dc",
+        "thumb_bg": "#e8e5dc",
+        "button_bg": "#000000",
+        "button_text": "#ffffff",
+        "font": "inter_n4",
+        "z_index": 200
+      }
+    }
+  },
+  "order": [
+    "knr_product_hero",
+    "knr_features_1",
+    "knr_howto",
+    "knr_testimonial",
+    "knr_faq",
+    "knr_reviews_RwTyAL",
+    "knr_blog_columns_UXDdAm",
+    "knr_newsletter_banner_fE6iJT",
+    "knr_service_strip_krQbBM",
+    "knr_sticky_add_to_cart_JpMX8n"
+  ]
+}
